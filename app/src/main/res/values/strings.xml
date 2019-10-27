@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kwetu Shopping Mall</string>
+    <string name="FACEBOOK_APP_ID">588099051674159</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">3d1fef5cd471b469f0773eb285110842</string>
+    <string name="kwetu_shopping_mall">KWETU Shopping Mall</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

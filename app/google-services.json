@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632212887401",
+    "firebase_url": "https://kwetushoppingmall.firebaseio.com",
+    "project_id": "kwetushoppingmall",
+    "storage_bucket": "kwetushoppingmall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632212887401:android:5b45f2e90bbfb2e6",
+        "android_client_info": {
+          "package_name": "com.example.kwetushoppingmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632212887401-rg146v9h0r86pj7to9mobtcmch0bijhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kwetushoppingmall",
+            "certificate_hash": "912ced313a3ec6d0d95909bd543cf63f7e640cf8"
+          }
+        },
+        {
+          "client_id": "632212887401-cpd81qbh7vm8erdbcu0l99smsipg2145.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYM7-NjcVHfLasvivreyTmhdEqhW8nS2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632212887401-cpd81qbh7vm8erdbcu0l99smsipg2145.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
